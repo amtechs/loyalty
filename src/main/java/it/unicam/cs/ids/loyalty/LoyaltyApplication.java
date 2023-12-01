@@ -27,7 +27,7 @@ public class LoyaltyApplication implements CommandLineRunner {
         while (true) {
             System.out.println("Benvenuto! Seleziona un'opzione:");
             System.out.println("1. Login come Merchant");
-            System.out.println("2. Registrati come Merchant");
+            System.out.println("2. Registrati -come Merchant");
             System.out.println("3. Login come Cliente");
             System.out.println("4. Registrati come Cliente");
             System.out.println("0. Esci");
